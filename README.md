@@ -2,6 +2,7 @@
 
 ---
 # <b>Creating and running software containers with Singularity</b>
+Video class can be found [here](https://www.youtube.com/watch?v=3Yg7XI39H4U) and [here](https://www.youtube.com/watch?v=yi82PC--F2U).
 
 ### <i>How to use [Singularity](https://sylabs.io/guides/latest/user-guide/)! </i>
 
