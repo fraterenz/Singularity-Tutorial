@@ -4,7 +4,7 @@
 ---
 # Building a Basic Container
 
-In this section, we will build a brand new container similar to the lolcow container we've been using in the previous examples.
+In this section, we will build a brand new container similar to the lolcow container we've been using in the previous examples. **NOTE** in order to run the example, you must have `deboostrap` installed. 
 
 To build a singularity container, you must use the `build` command.  The `build` command installs an OS, sets up your container's environment and installs the apps you need.  To use the `build` command, we need a definition file. A [Singularity definition file](https://sylabs.io/guides/3.5/user-guide/definition_files.html) is a set of instructions telling Singularity what software to install in the container.
 
